@@ -1,7 +1,7 @@
 # Vaibhav Arora — Portfolio Website (GitHub Pages)
 
-Live site: https://varijoo.github.io
-
+Live site: [https://varijoo.github.io
+](https://varijoo.github.io/Vaibhav.github.io/)
 This repository hosts my personal portfolio website (HTML/CSS) showcasing selected projects, skills, and contact links.
 
 ---
